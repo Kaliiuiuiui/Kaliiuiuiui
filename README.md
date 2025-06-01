@@ -9,13 +9,14 @@
       Oii!! Me chame de Gracy Kelly, ou apenas Kelly
       <br>
   </samp>
-  <img src="https://i.pinimg.com/originals/7c/1f/11/7c1f1122e45db07bdeaf3faddbf4b86e.gif" />
 </div>
-
 <br>
   
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaliiuiuiui&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+<div align="center">
+     <img src="https://i.pinimg.com/originals/4c/7f/a4/4c7fa4095bea32884f6f2710fd5d93d1.gif" />
 </div>
 <div align="center">
     <samp>
